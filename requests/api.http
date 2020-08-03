@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/url/shorten
+Content-Type: application/json
+
+{
+	"longUrl": "https://www.youtube.com/watch?v=Z57566JBaZQ&list=PLhAYqyL8bdjy10dbfKoxnO4CXyGR9quCs&index=5&t=912s" 
+}
+
+# Please install rest CLient in VS code
+# or use postman
